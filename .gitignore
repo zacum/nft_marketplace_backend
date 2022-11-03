@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+.env
+public/profiles
+
+.env.example
+doc_2022-03-28_17-35-36.env
+server.js
